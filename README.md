@@ -1,4 +1,4 @@
-# tornadoOauth
+# tornadoOAuth
 [python-tornado](http://www.tornadoweb.org/en/stable/) (2.7) project boilerplate for google Oauth
 
 ## Install and Run
